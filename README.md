@@ -13,6 +13,8 @@
 
 ## 🛠️ Tecnologías Utilizadas
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 * **Lenguajes:** Python, JavaScript, R, SQL, etc.
 * **Frameworks/Librerías:** React, Django, Pandas, NumPy, Scikit-learn, etc.
 * **Bases de Datos:** PostgreSQL, MySQL, MongoDB, etc.
