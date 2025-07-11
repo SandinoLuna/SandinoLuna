@@ -1,10 +1,7 @@
 # Nombre de tu Proyecto
 <div id="header" align="center">
-  <img decoding="async" src="[https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif]" width="800"/>
-  
+  <img decoding="async" src="https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif" width="800"/>
 </div>
-
-![Banner del proyecto]('https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif') Una descripción concisa y atractiva de tu proyecto. ¿Qué problema resuelve? ¿Cuál es su propósito principal?
 
 ## 🚀 Demo del Proyecto
 
