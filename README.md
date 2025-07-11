@@ -1,55 +1,82 @@
-# Hola Soy Sandino Luna
+
+# ¡Hola! Soy Sandino Luna 👋 Analista de Datos
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif" width="800"/>
 </div>
 
-## 🚀 Data Analist
+Soy un Analista de Datos con experiencia práctica en el sector manufacturero y habilidades avanzadas en análisis de datos, visualización y bases de datos. Recientemente, completé un bootcamp intensivo en Tripleten, donde adquirí un dominio sólido en herramientas modernas de análisis de datos y técnicas de aprendizaje automático.
 
-## ✨ Características Principales
+Mi experiencia previa en Kimberly-Clark Ecatepec me proporcionó una base sólida en la interpretación de datos para optimizar procesos y mejorar la toma de decisiones. Me apasiona transformar datos complejos en insights accionables y contribuir al éxito de equipos dinámicos.
 
-* Característica 1: Breve explicación de lo que hace.
-* Característica 2: Breve explicación de lo que hace.
-* Característica 3: Breve explicación de lo que hace.
-* ...
+### Aplicación web para explorar datos de anuncios de coches usados
 
-## 🛠️ Tecnologías Utilizadas
+Este proyecto se enfoca en la visualización interactiva de histogramas y gráficos de dispersión con filtros, e incluye un análisis exploratorio de datos (EDA) básico.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py)](https://skillicons.dev)
+* **Herramientas:** Jupyter Notebook, Python, Streamlit.
+* **Repositorio:** [github.com/Analisis-de-veiculos](https://github.com/Analisis-de-veiculos)
 
-* **Lenguajes:** Python, JavaScript, R, SQL, etc.
-* **Frameworks/Librerías:** React, Django, Pandas, NumPy, Scikit-learn, etc.
-* **Bases de Datos:** PostgreSQL, MySQL, MongoDB, etc.
-* **Herramientas:** Docker, Kubernetes, AWS, Google Cloud, Tableau, Power BI, etc.
+## 📊 Habilidades Técnicas
 
-## ⚙️ Instalación y Uso
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py,latex,postgres,vscode,)](https://skillicons.dev)
 
-Instrucciones paso a paso para que otros puedan configurar y ejecutar tu proyecto.
+### Lenguajes de Programación y Bases de Datos
+* **Python:** Pandas, Polars, DuckDB, NumPy, Matplotlib, Seaborn, Streamlit.
+* **SQL:** PostgreSQL, MySQL, DBeaver (Gestor universal de bases de datos). Dominio en consultas complejas, manipulación y diseño de bases de datos relacionales.
 
-1.  Clona el repositorio:
-    `git clone https://github.com/tu-usuario/nombre-de-tu-repositorio.git`
-2.  Navega al directorio del proyecto:
-    `cd nombre-de-tu-repositorio`
-3.  Instala las dependencias (ejemplo para Python):
-    `pip install -r requirements.txt`
-4.  Ejecuta la aplicación/script:
-    `python main.py`
+### Herramientas de Análisis y Visualización de Datos
+* **Microsoft Excel:** Funciones avanzadas, tablas dinámicas, macros, dashboards.
+* **Tableau:** Creación de dashboards interactivos, visualizaciones avanzadas.
+* **Power BI:** Diseño de informes y dashboards, modelado de datos.
+* **Google Sheets:** Manejo de hojas de cálculo en la nube.
 
-## 🤝 Contribuciones
+### Control de Versiones y Colaboración
+* **Git:** Control de versiones distribuido.
+* **GitHub:** Colaboración en proyectos, gestión de repositorios.
 
-¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor:
+### Otras Herramientas y Conceptos
+* **Análisis Estadístico:** Pruebas de hipótesis, regresión, distribuciones.
+* **Metodologías:** Análisis Pareto (80/20), Diagramas Ishikawa (Espina de Pescado).
 
-1.  Haz un "fork" de este repositorio.
-2.  Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3.  Realiza tus cambios y haz "commit" (`git commit -m 'feat: Añadir nueva funcionalidad'`).
-4.  Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5.  Abre un "Pull Request".
+## 💼 Experiencia Profesional
+
+* **Analista de Consumos** en **Arpapel S.A. de C.V.** - México (Mar 2024 - Ago 2024)
+    * Análisis de patrones de consumo para optimizar la gestión de inventarios y reducir mermas.
+    * Generación de reportes detallados sobre tendencias y desviaciones para la planificación de la producción.
+    * Colaboración con equipos de operaciones y finanzas para identificar mejoras en la eficiencia del uso de recursos.
+    * Utilización de Excel y bases de datos internas para la recolección y análisis de datos.
+
+* **Analista de Datos** en **Kimberly-Clark de México, S.A.B. de C.V.** - Ecatepec, Edo. Mex (May 2018 - Nov 2023)
+    * Elaboración y consolidación de reportes diarios de producción para 15 líneas, detallando unidades, tiempos de inactividad y eficiencia por turno.
+    * Desarrollo de un sistema de Excel interconectado para centralizar la información de producción y optimizar el flujo de datos.
+    * Análisis de tiempos perdidos utilizando diagramas de Pareto 80/20 e Ishikawa para identificar causas de ineficiencia.
+    * Administración de base de datos de consumibles, calculando consumos unitarios y mermas, informando a gerencia.
+    * Creación y presentación de un dashboard gerencial en Excel con historial gráfico de producción y principales fallos.
+    * Recopilación semanal de información de 151 trabajadores para nómina, registrando tiempos extra, faltas, etc.
+    * Vinculación de producción con desempeño individual de operadores para identificar y analizar causas de resultados.
+    * Realización de inventarios semanales con reportes gerenciales, eficientando el proceso y reduciendo errores.
+    * Diseño e impartición de capacitaciones sobre procesos de operación estándar para mejorar KPIs.
+
+## 🎓 Educación
+
+* **Programa de Data Analyst** en **Escuela TripleTen de Data Science** (Sep 2024 - Actual)
+    * Programa intensivo de seis meses enfocado en la ciencia y el análisis de datos.
+    * Dominio de Python (Pandas, NumPy, Matplotlib, Seaborn, Streamlit), SQL y herramientas de visualización (Tableau, Power BI).
+    * Aplicación práctica a través de 12 proyectos basados en escenarios y datos reales.
+    * Énfasis en métodos estadísticos, limpieza de datos, análisis exploratorio y modelado básico.
+
+* **Ingeniería Química** en **Universidad Autónoma Metropolitana** (Sept 2008 - May 2012)
+    * Carrera no finalizada (327 créditos).
+
+## 🗣️ Idiomas
+
+* **Español:** Nativo
+* **Inglés:** Intermedio
 
 ## 📧 Contacto
 
-* **Tu Nombre** - [Tu LinkedIn](https://www.linkedin.com/in/sandino-luna/) - [Tu Email](mailto:onidasanul@gmail.com)
-* **[Tu Portafolio/Sitio Web Personal](https://tu-sitio-web.com)** (Opcional)
+* **Email:** onidasanul@gmail.com
+* **LinkedIn:** [Sandino Luna](https://www.linkedin.com/in/sandino-luna/)
+* **GitHub:** [SandinoLuna](https://github.com/SandinoLuna)
+* **Teléfono:** +52 561 141 1036
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
--->
+---
