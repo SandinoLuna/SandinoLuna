@@ -1,6 +1,6 @@
 # Nombre de tu Proyecto
 
-![Banner del proyecto](enlace/a/tu/imagen/banner.png) Una descripción concisa y atractiva de tu proyecto. ¿Qué problema resuelve? ¿Cuál es su propósito principal?
+![Banner del proyecto]('') Una descripción concisa y atractiva de tu proyecto. ¿Qué problema resuelve? ¿Cuál es su propósito principal?
 
 ## 🚀 Demo del Proyecto
 
@@ -13,7 +13,7 @@
 
 ## 🛠️ Tecnologías Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py)](https://skillicons.dev)
 
 * **Lenguajes:** Python, JavaScript, R, SQL, etc.
 * **Frameworks/Librerías:** React, Django, Pandas, NumPy, Scikit-learn, etc.
