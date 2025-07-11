@@ -1,6 +1,10 @@
 # Nombre de tu Proyecto
+<div id="header" align="center">
+  <img decoding="async" src="[(https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif'] width="800"/>
+  
+</div>
 
-![Banner del proyecto]('') Una descripción concisa y atractiva de tu proyecto. ¿Qué problema resuelve? ¿Cuál es su propósito principal?
+![Banner del proyecto]('https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif') Una descripción concisa y atractiva de tu proyecto. ¿Qué problema resuelve? ¿Cuál es su propósito principal?
 
 ## 🚀 Demo del Proyecto
 
@@ -45,7 +49,7 @@ Instrucciones paso a paso para que otros puedan configurar y ejecutar tu proyect
 
 ## 📧 Contacto
 
-* **Tu Nombre** - [Tu LinkedIn](https://www.linkedin.com/in/tu-perfil/) - [Tu Email](mailto:tu.email@example.com)
+* **Tu Nombre** - [Tu LinkedIn](https://www.linkedin.com/in/sandino-luna/) - [Tu Email](mailto:onidasanul@gmail.com)
 * **[Tu Portafolio/Sitio Web Personal](https://tu-sitio-web.com)** (Opcional)
 
 ## 📄 Licencia
