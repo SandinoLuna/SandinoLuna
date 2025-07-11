@@ -1,9 +1,9 @@
-# Nombre de tu Proyecto
+# Hola Soy Sandino Luna
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/SandinoLuna/ImagenBaner/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.gif" width="800"/>
 </div>
 
-## 🚀 Demo del Proyecto
+## 🚀 Data Analist
 
 ## ✨ Características Principales
 
